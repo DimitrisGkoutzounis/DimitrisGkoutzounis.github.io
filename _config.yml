@@ -25,7 +25,7 @@ description              : "This is my personal website."
 url                      : "https://DimitrisGkoutzounis.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/Aalto-Talent-Expo-20237405.jpg"
+teaser                   : "/assets/images/Aalto-Talent-Expo-20237405.JPG"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
