@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /projects/
+    url: /posts/
   #- title: "Experience"
   #  url: /categories/
   - title: "CV"
