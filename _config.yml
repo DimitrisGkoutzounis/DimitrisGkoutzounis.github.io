@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Dimitris Gkoutzounis"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Aalto-talent-expo.png"
   bio    : "I am an Electrical and Computer Engineering student at the Hellenic Mediterranean Univeristy."
   links:
     #- label: "Website"
@@ -75,7 +75,7 @@ author:
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
      # url: "https://instagram.com/"
-      label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/"
 
