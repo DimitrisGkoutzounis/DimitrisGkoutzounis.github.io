@@ -4,22 +4,17 @@ layout: single
 permalink: /cv/
 ---
 
-## About Me
-
-As a highly motivated and ambitious graduate student pursuing a diploma in Electrical and Computer Engineering, I am passionate about automation, control, and software engineering, as well as their intersection. My ability to collaborate, positive attitude toward change, and eagerness to continuously improve make me a valuable asset to any team. I am excited to apply my skills and knowledge to contribute to the growth and development of innovative projects and solutions.
-
 ## Education
 
 ### **Hellenic Mediterranean University**  
 **Diploma in Electrical and Computer Engineering** (Oct 2019 – Current)  
 - Notable Coursework: Industrial Control, Automation and Control, Robotics, Signal Processing, Machine Learning  
-- **GPA:** 7.34/10 (Above average)
-
+- **GPA:** 7.7/10
 ### **Aalto University**  
 **Electrical and Engineering and Automation - Erasmus Exchange Studies** (Aug 2023 – Aug 2024)  
 - 1st term Coursework: Digital and Optimal Control, Embedded Systems, Robotics, Computer Vision, Machine Learning, Information Security, Speech Recognition  
 - 2nd term **Master-Thesis:** "Learning-based control of multi-agent systems."  
-- **GPA:** 3.92/5 (Above average)
+- **GPA:** 4.34/5 (Above average)
 
 ## Projects
 

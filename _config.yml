@@ -77,7 +77,7 @@ author:
      # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/dimitrios-gkoutzounis-74b91020a/"
 
 footer:
   links:
@@ -86,10 +86,13 @@ footer:
      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/DimitrisGkoutzounis"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dimitrios-gkoutzounis-74b91020a/"
 
 defaults:
   # _posts
@@ -103,6 +106,8 @@ defaults:
       comments: true
       share: true
       related: true
+      permalink: /about/
+      title: "About Me"
   # _pages
   - scope:
       path: "_pages"
