@@ -10,11 +10,12 @@ permalink: /cv/
 **Diploma in Electrical and Computer Engineering** (Oct 2019 – Current)  
 - Notable Coursework: Industrial Control, Automation and Control, Robotics, Signal Processing, Machine Learning  
 - **GPA:** 7.7/10
+
 ### **Aalto University**  
 **Electrical and Engineering and Automation - Erasmus Exchange Studies** (Aug 2023 – Aug 2024)  
 - 1st term Coursework: Digital and Optimal Control, Embedded Systems, Robotics, Computer Vision, Machine Learning, Information Security, Speech Recognition  
 - 2nd term **Master-Thesis:** "Learning-based control of multi-agent systems."  
-- **GPA:** 4.34/5 (Above average)
+- **GPA:** 4.34/5
 
 ## Projects
 
