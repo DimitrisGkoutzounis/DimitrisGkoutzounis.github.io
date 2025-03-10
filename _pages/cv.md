@@ -17,7 +17,7 @@ permalink: /cv/
 - 2nd term **Master-Thesis:** "Learning-based control of multi-agent systems."  
 - **GPA:** 4.34/5
 
-## Projects
+## International Activities
 
 ### **INTENSIVE INTERDISCIPLINARY WORKSHOP**  
 *Vilnius Gediminas Technical University, Lithuania (Mar 2022 – Apr 2022)*  
