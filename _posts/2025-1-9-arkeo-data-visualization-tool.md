@@ -27,8 +27,8 @@ The Arkeo Data Visualization Tool is a web application designed to visualize and
 ✅ **Visualization:** D3.js, Recharts  
 
 ### **Screenshots**  
-![App Dashboard](https://github.com/DimitrisGkoutzounis/Perovskites/blob/master/uploads/filter_menu.png)  
-![Data Visualization](https://github.com/DimitrisGkoutzounis/Perovskites/blob/master/uploads/custom_filter.png)  
+![App Dashboard](/assets/images/filter_menu.png)  
+![Data Visualization](/assets/images/custom_filter.png)  
 
 ### **Future Enhancements**  
 - Implement AI-driven predictive analytics for perovskite efficiency.  
