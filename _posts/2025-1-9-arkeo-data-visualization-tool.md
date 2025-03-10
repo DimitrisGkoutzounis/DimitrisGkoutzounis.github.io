@@ -9,11 +9,8 @@ permalink: /projects/arkeo-data-visualization-tool/
 ---
 
 
-
-
-
 ## **Arkeo Data Visualization Tool**  
-📌 **Project Repository:** [GitHub - Perovskites](https://github.com/DimitrisGkoutzounis/Perovskites)  
+
 
 ### **Overview**  
 The Arkeo Data Visualization Tool is a web application designed to visualize and analyze perovskite material data from the Arkeo archive. The platform provides an interactive interface for researchers to quickly visualize data, from the extracted from Arkeo machine. 
@@ -30,10 +27,12 @@ The Arkeo Data Visualization Tool is a web application designed to visualize and
 ✅ **Visualization:** D3.js, Recharts  
 
 ### **Screenshots**  
-![App Dashboard](https://github.com/DimitrisGkoutzounis/Perovskites/blob/46aaccb7faee28e1a16502490f73d8afcc96d002/uploads/filter_menu.png)  
-![Data Visualization](https://github.com/DimitrisGkoutzounis/Perovskites/blob/46aaccb7faee28e1a16502490f73d8afcc96d002/uploads/custom_filter.png)  
+![App Dashboard](https://github.com/DimitrisGkoutzounis/Perovskites/blob/master/uploads/filter_menu.png)  
+![Data Visualization](https://github.com/DimitrisGkoutzounis/Perovskites/blob/master/uploads/custom_filter.png)  
 
 ### **Future Enhancements**  
 - Implement AI-driven predictive analytics for perovskite efficiency.  
 - Enhance user experience with a more customizable dashboard.  
 - Expand dataset compatibility for broader scientific applications.  
+
+📌 **Project Repository:** [GitHub - Perovskites](https://github.com/DimitrisGkoutzounis/Perovskites)  

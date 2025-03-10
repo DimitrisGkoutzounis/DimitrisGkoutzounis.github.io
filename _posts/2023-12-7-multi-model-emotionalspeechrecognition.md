@@ -8,7 +8,7 @@ author_profile: true
 permalink: /projects/multi-model-emotionalspeechrecognition/
 ---
 
-**Project Overview**
+**Multi-Modal Emotional Emotion Recognition**
 
 This project explores multimodal emotional speech recognition, aiming to improve emotion classification by integrating audio, text, and video data. Using the IEMOCAP dataset, which includes 10,039 samples of emotional expressions, we developed a model leveraging pre-trained transformers for each modality. The goal was to demonstrate the advantages of multimodal approaches over unimodal baselines in emotion recognition tasks.
 

@@ -9,7 +9,7 @@ permalink: /projects/electron-mass-prediction/
 ---
 
 
-## Project Overview
+## Electron Mass Prediction ##
 
 This project focuses on predicting the mass of electrons based on a dataset of particle collision events collected by CERN in 2010. These events, defined as electron collisions, resulted in a dataset of 100,000 events with invariant mass values ranging from 2 to 110 GeV.
 
@@ -25,7 +25,7 @@ Using **supervised learning**, we trained a predictive model on labeled data whe
 
 ## GitHub Repository
 
-For more details, check out the project repository on GitHub: [GitHub - DimitrisGkoutzounis](https://github.com/DimitrisGkoutzounis)
+For more details, check out the project repository on GitHub: [GitHub - DimitrisGkoutzounis](https://github.com/DimitrisGkoutzounis/Machine-Learning-Electron-Mass-Prediction.git)
 
 
 
